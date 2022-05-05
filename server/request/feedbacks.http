@@ -1,0 +1,7 @@
+POST http://localhost:3333/feedbacks
+Content-Type: application/json
+
+{
+    "type": "OTHER",
+    "comment": "Teste!"
+}
