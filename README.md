@@ -1,9 +1,9 @@
 <h1><img src="./assets_ignore/nlw8icon.png" width="32px"/> NLW Return - Trilha Impulse </h1>
  
-<a href="https://github.com/luclucs/nlw/assets_ignore/" title="NLW-Return" >
+<a href="https://github.com/luclucs/nlw" title="NLW-Return" >
     <p align="center">
         <img
-        src="nlw-return.png"
+        src="assets_ignore/nlw-return.png"
         width="80%"
         />
     </p>
