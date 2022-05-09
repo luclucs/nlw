@@ -1,9 +1,9 @@
-<h1><img src="./images/nlw8icon.png" width="32px"/> NLW Return - Trilha Impulse </h1>
+<h1><img src="./assets_ignore/nlw8icon.png" width="32px"/> NLW Return - Trilha Impulse </h1>
  
-<a href="https://github.com/DinowSauron/Projeto-Next-Level-Week-8-Return" title="NLW-Return" >
+<a href="https://github.com/luclucs/nlw/assets_ignore" title="NLW-Return" >
     <p align="center">
         <img
-        src="images/nlw-return.png"
+        src="nlw-return.png"
         width="80%"
         />
     </p>
